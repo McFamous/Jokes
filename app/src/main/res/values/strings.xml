@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <string name="reload">Reload</string>
+    <string name="count">Count</string>
+    <string name="address">http://www.icndb.com/api</string>
+</resources>
